@@ -1,0 +1,9 @@
+title = "大合奏!バンドブラザーズP"
+description = "大合奏!バンドブラザーズP (\"Daigasso Band Brothers P\") is a band focused rhythm game released for the 3DS in 2013, exclusively in Japan. It is the third game in the series. As with previous games in the series, the game tasks players with playing a song of their choice, using a variety of musical instruments.  These songs can be played either solo or with up to ten players forming a band, either locally or online."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000A0B00"
+region = "jpn"
+release_date = "2013-11-14"
